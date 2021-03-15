@@ -4,7 +4,7 @@
  *
  * Authors:
  *		Philippe Saint-Pierre <stpere@gmail.com>
- *		Pete Goodeve <pete.goodeve
+ *		Pete Goodeve <pete.goodeve@computer.org>
  */
 
 

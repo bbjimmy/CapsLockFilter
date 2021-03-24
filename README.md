@@ -5,6 +5,6 @@ To make, cd to the CapsLockFilter folder
 
 make 
 
-[ctrl] [CapsLock] is required to enter capslock. [CapsLock] releases the lock.
+[Ctrl] [CapsLock] is required to enter capslock. [CapsLock] releases the lock.
 
 install CapsLockFilter in /boot/system/non-packaged/add-ons/input_server/filters to activate this filter.
